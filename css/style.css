@@ -2,18 +2,16 @@ html {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 36px;
     line-height: 61px;
-}
 
+}
 #wrapper {
     width: 1208px;
     margin-left: auto;
     margin-right: auto;
 }
-
 footer {
     text-align: center;
 }
-
 h1 {
     font-size: 200%;
 }
@@ -23,11 +21,9 @@ h2 {
 h3 {
     font-size: 160%;
 }
-
 menu {
-    text-align: center;
+    padding-left: 0px;
 }
-
 menu li {
     display: inline;
 }
