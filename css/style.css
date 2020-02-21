@@ -9,9 +9,6 @@ html {
     margin-left: auto;
     margin-right: auto;
 }
-footer {
-    text-align: center;
-}
 h1 {
     font-size: 200%;
 }
@@ -77,5 +74,7 @@ menu {
 }
 
 footer {
+    text-align: center;
     clear: left;
+    margin-top: 300px;
 }
