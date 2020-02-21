@@ -65,6 +65,17 @@ menu {
     height: 160px;
     width: 160px;
 }
+
+.callout {
+    width: 402px;
+    height: 200px;
+    float: left;
+}
+.centerimg {
+    width: 1208px;
+    height: 746px;
+}
+
 footer {
     clear: left;
 }
